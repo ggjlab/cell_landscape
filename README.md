@@ -2,7 +2,7 @@
 
 Code used in [Construction of a cross-species cell landscape at single-cell level](https://doi.org/10.1093/nar/gkac633).
 
-We applied scRNA-seq to map organism-level cell landscapes at multiple life stages for mice, zebrafish, and Drosophila. By integrating the comprehensive dataset of more than 2.6 million single cells, we constructed a cross-species cell landscape and identified signatures and common pathways that changed throughout the lifespan. We identified structural inflammation and mitochondrial dysfunction as the most common hallmarks of organism ageing, and found that pharmacological activation of mitochondrial metabolism alleviated ageing phenotypes in mice. Meanwhile, the cross-species cell landscape with other published data sets were stored in an integrated online portal [ Cell Landscape ](http://bis.zju.edu.cn/cellatlas/). 
+We applied scRNA-seq to map organism-level cell landscapes at multiple life stages for mice, zebrafish, and Drosophila. By integrating the comprehensive dataset of more than 2.6 million single cells, we constructed a cross-species cell landscape and identified signatures and common pathways that changed throughout the lifespan. We identified structural inflammation and mitochondrial dysfunction as the most common hallmarks of organism ageing, and found that pharmacological activation of mitochondrial metabolism alleviated ageing phenotypes in mice. Meanwhile, the cross-species cell landscape with other published data sets were stored in an integrated online portal [Cell Landscape](http://bis.zju.edu.cn/cellatlas/). 
 
 <div align=center>
 <img src="http://bis.zju.edu.cn/MCA/image/NAR-01330-H-2022.R1-graphical%20abstract.png" width="600px">
